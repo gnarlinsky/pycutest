@@ -1,0 +1,1329 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Py-CU</title>
+  <link href="http://py-cu.org"/>
+  <link type="application/atom+xml" rel="self" href="http://py-cu.org/feeds/atom.xml"/>
+  <updated>2013-12-25T12:53:49-06:00</updated>
+  <id>http://py-cu.org/</id>
+
+  
+  <entry>
+    <id>http://py-cu.org/events/2014/01/20/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2014/01/20/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: January 20, 2014</title>
+    <published>2014-01-20T00:00:00-06:00</published>
+    <updated>2014-01-20T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Today we&amp;#8217;ll be following our new more structured format.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;10 minutes for introductions&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;30 minutes for main talk and Q&amp;amp;A or&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;3x10 minutes lightnight talks&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will be Roger&amp;#8217;s introduction of the Manual for Py-CU. From the last meeting notes, &amp;#8220;The purpose of this document is to capture the necessary steps, leadership experience, etc, about the administrative requirements for running Py-CU, from web administration, group meetings, special events, etc.&amp;#8221;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;10 minutes birds of a feather&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;10 minutes of group TILing (Today I Learned)&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;20 minutes business/boring stuff&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will include followup from our meeting with Makerspace Urbana on December 1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;10 minutes planning for next time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Detailed directions to the new meeting location: Applied Research Associates is located at &lt;a href=&#39;http://goo.gl/maps/DM3I1&#39;&gt;100 Trade Centre
+Dr.&lt;/a&gt; (sort of by Kirby and State), Suite 200, in Champaign. It’s the same building as Wolfram, and the entrance is on the SW corner of the building, where the rotating doors are. Those will most likely be locked at that time, but we&amp;#8217;ll have someone in the lobby to let you in.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/12/25/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/12/25/Announcement.html"/>
+    <title>Announcement: December 25, 2013</title>
+    <published>2013-12-25T00:00:00-06:00</published>
+    <updated>2013-12-25T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Just a quick reminder that we&amp;#8217;ll be suspending our regular twice-monthly general meeting schedule until after the holiday season. Our next meeting will be January 6th. At that point we&amp;#8217;ll start meeting at the Makerspace each time, since we&amp;#8217;re now officially affiliated with the Makerspace and have full use of the space. Watch the events section for the meeting&amp;#8217;s agenda. See you there!&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/12/19/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/12/19/Announcement.html"/>
+    <title>Announcement: December 19, 2013</title>
+    <published>2013-12-19T00:00:00-06:00</published>
+    <updated>2013-12-19T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Elizabeth&amp;#8217;s poster has been accepted for &lt;a href=&#39;https://us.pycon.org/2014/&#39;&gt;PyCon 2014 in Montreal&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s the abstract:&lt;/p&gt;
+&lt;b&gt;Description&lt;/b&gt;
+&lt;p&gt;Once students are inspired to learn Python, what does the community have to offer to facilitate that education?&lt;/p&gt;
+
+&lt;p&gt;This poster discusses educational tools and services for the Python novice with a focus on students outside of a mainstream computer science degree program. Come share your story of learning Python!&lt;/p&gt;
+&lt;b&gt;Abstract&lt;/b&gt;
+&lt;p&gt;Programming and computer science education have quite a few barriers to full inclusion of researchers who could benefit from acquisition of those skills. The desire to learn is often seen as the largest barrier for entry into computer science education, and many programs and initiatives are designed to encourage prospective students to move beyond it. In most cases those students will be entering into a formal and structured learning environment, but what about the students who are outside the mainstream computer science educational system? Students may be from academic domains that do not traditionally use programmatic tools for research, lack the funds to enter into college coursework, or are a working professional trying to gain new and marketable job skills. One of the most obvious advantages of learning Python is the ease and low cost of access to begin development. Setting up a computer for Python development may be accomplished at zero cost in software or tuition. Additionally, many tools for learning are available for free or low cost, but students outside the formal classroom experience often have to rely on word of mouth and dumb luck to discover these tools. This poster has two goals: first to educate the conference participants on the resources available to new students of Python and to encourage them to give back to their community by participating in their local Python organizations. The content of the poster will explore the advantages and disadvantages the Python community offers students who are learning outside of a mainstream degree program, summarize some of the existing tools independent students may find helpful, and explore the outreach programs used by the Champaign-Urbana Python User Group (Py-CU). The interaction with the PyCon participants will be the core experience. Developers are encourage to share their stories of learning Python with the poster presenter. Understanding of how developers learn their craft, and what they found helpful and encouraging in that process, is vital to have on hand in order to design and facilitate programs that can give the most back.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/12/18/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/12/18/Announcement.html"/>
+    <title>Announcement: December 18, 2013</title>
+    <published>2013-12-18T00:00:00-06:00</published>
+    <updated>2013-12-18T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;We won&amp;#8217;t be holding hack night on 12/24/2013. Happy holidays!&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/12/17/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/12/17/Hack-Session.html"/>
+    <title>Hack Session: December 17, 2013</title>
+    <published>2013-12-17T00:00:00-06:00</published>
+    <updated>2013-12-17T00:00:00-06:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/12/16/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/12/16/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: December 16, 2013</title>
+    <published>2013-12-16T00:00:00-06:00</published>
+    <updated>2013-12-16T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Today we&amp;#8217;ll be following our new more structured format.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;10 minutes for introductions&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;30 minutes for main talk and Q&amp;amp;A or&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;3x10 minutes lightnight talks&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will be Roger&amp;#8217;s introduction of the Manual for Py-CU. From the last meeting notes, &amp;#8220;The purpose of this document is to capture the necessary steps, leadership experience, etc, about the administrative requirements for running Py-CU, from web administration, group meetings, special events, etc.&amp;#8221;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;10 minutes birds of a feather&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;10 minutes of group TILing (Today I Learned)&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;20 minutes business/boring stuff&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will include followup from our meeting with Makerspace Urbana on December 1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;10 minutes planning for next time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Detailed directions to the new meeting location: Applied Research Associates is located at &lt;a href=&#39;http://goo.gl/maps/DM3I1&#39;&gt;100 Trade Centre
+Dr.&lt;/a&gt; (sort of by Kirby and State), Suite 200, in Champaign. It’s the same building as Wolfram, and the entrance is on the SW corner of the building, where the rotating doors are. Those will most likely be locked at that time, but we&amp;#8217;ll have someone in the lobby to let you in.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/12/14/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/12/14/Announcement.html"/>
+    <title>Announcement: December 14, 2013</title>
+    <published>2013-12-14T00:00:00-06:00</published>
+    <updated>2013-12-14T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Check out the &lt;a href=&#39;http://elizabethwickes.wordpress.com/pythonresources/&#39;&gt;directory of Python resources&lt;/a&gt; &amp;#8211; a growing list of Python learning and reference tools &amp;#8211; that one of our members, Elizabeth Wickes, put together.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/12/10/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/12/10/Hack-Session.html"/>
+    <title>Hack Session: December 10, 2013</title>
+    <published>2013-12-10T00:00:00-06:00</published>
+    <updated>2013-12-10T00:00:00-06:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/12/03/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/12/03/Hack-Session.html"/>
+    <title>Hack Session: December 03, 2013</title>
+    <published>2013-12-03T00:00:00-06:00</published>
+    <updated>2013-12-03T00:00:00-06:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/11/26/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/11/26/Hack-Session.html"/>
+    <title>Hack Session: November 26, 2013</title>
+    <published>2013-11-26T00:00:00-06:00</published>
+    <updated>2013-11-26T00:00:00-06:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/11/25/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/11/25/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: November 25, 2013</title>
+    <published>2013-11-25T00:00:00-06:00</published>
+    <updated>2013-11-25T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;At today&amp;#8217;s meeting we will have follow-up on the Strategic Plan Committee&amp;#8217;s meeting on Friday, including discussing a more consistent and structured meeting format, including TIL&amp;#8217;s, How I Work&amp;#8217;s, coding dojo&amp;#8217;s, etc.&lt;/p&gt;
+
+&lt;p&gt;We will also have a meeting structure in a more formalized manner, meaning we will have designated moments for a Main Talk, Lightening Talks, and Birds-of-a-feather sessions. One of those sessions will be the Strategic Planning Committee.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Detailed directions to the new meeting location: Applied Research Associates is located at &lt;a href=&#39;http://goo.gl/maps/DM3I1&#39;&gt;100 Trade Centre
+Dr.&lt;/a&gt; (sort of by Kirby and State), Suite 200, in Champaign. It’s the same building as Wolfram, and the entrance is on the SW corner of the building, where the rotating doors are. Those will most likely be locked at that time, but we&amp;#8217;ll have someone in the lobby to let you in.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/11/19/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/11/19/Hack-Session.html"/>
+    <title>Hack Session: November 19, 2013</title>
+    <published>2013-11-19T00:00:00-06:00</published>
+    <updated>2013-11-19T00:00:00-06:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/11/12/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/11/12/Hack-Session.html"/>
+    <title>Hack Session: November 12, 2013</title>
+    <published>2013-11-12T00:00:00-06:00</published>
+    <updated>2013-11-12T00:00:00-06:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/11/11/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/11/11/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: November 11, 2013</title>
+    <published>2013-11-11T00:00:00-06:00</published>
+    <updated>2013-11-11T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;The theme for this meeting is &amp;#8220;contributing to open source projects,&amp;#8221; featuring talks by Roger Serwy and Sean Vig. Roger will discuss contributing to &lt;a href=&#39;https://wiki.python.org/moin/IDLE&#39;&gt;IDLE, a popular Python IDE&lt;/a&gt; and Sean will talk about contributing to &lt;a href=&#39;http://sympy.org/en/&#39;&gt;SymPy, a
+Python library for symbolic math&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Other items on the agenda include&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a discussion on the state of our affiliation with Makerspace Urbana and other organizations;&lt;/li&gt;
+
+&lt;li&gt;Google Glass updates;&lt;/li&gt;
+
+&lt;li&gt;contributing a poster or two based on our experiences with the PyCuCamp workshop (Python tutorials for beginners) to conferences like PyCon Canada and the American Library Association&amp;#8217;s ALA 2014.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More detailed and updated agenda stuff lives at &lt;a href=&#39;http://goo.gl/NLm0uY&#39;&gt;http://goo.gl/NLm0uY&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As usual, we&amp;#8217;ll conclude with break-out sessions.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More detailed directions to the new meeting location: Applied Research Associates is located at &lt;a href=&#39;http://goo.gl/maps/DM3I1&#39;&gt;100 Trade Centre
+Dr.&lt;/a&gt; (sort of by Kirby and State), Suite 200, in Champaign. It’s the same building as Wolfram, and the entrance is on the SW corner of the building, where the rotating doors are. Those will most likely be locked at that time, but we&amp;#8217;ll have someone in the lobby to let you in.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/11/05/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/11/05/Hack-Session.html"/>
+    <title>Hack Session: November 05, 2013</title>
+    <published>2013-11-05T00:00:00-06:00</published>
+    <updated>2013-11-05T00:00:00-06:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/10/29/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/10/29/Hack-Session.html"/>
+    <title>Hack Session: October 29, 2013</title>
+    <published>2013-10-29T00:00:00-05:00</published>
+    <updated>2013-10-29T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/10/25/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/10/25/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: October 25, 2013</title>
+    <published>2013-10-25T00:00:00-05:00</published>
+    <updated>2013-10-25T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;New meeting place! This time we&amp;#8217;re meeting at Applied Research Associates, 6:30-8:30 PM, Friday, October 25. This will be our last Friday meeting &amp;#8211; we&amp;#8217;ll start meeting Mondays starting November 4th. Applied Research Associates is located at &lt;a href=&#39;http://goo.gl/maps/zHrEm&#39;&gt;100 Trade Centre Dr.  (sort of by
+Kirby and State), Suite 200, in Champaign&lt;/a&gt;. It&amp;#8217;s the same building as Wolfram, and the entrance is on the SW corner of the building.&lt;/p&gt;
+
+&lt;p&gt;Liz will be giving our main talk on Google Glass. Through a series of fortunate events, she was able to purchase one and she invites Py-CU members to make this session an interactive one as we discuss how this new wave of mobile technology can impact our lives. There will be Glass playtime as well. App and project ideas are welcome :)&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/10/22/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/10/22/Hack-Session.html"/>
+    <title>Hack Session: October 22, 2013</title>
+    <published>2013-10-22T00:00:00-05:00</published>
+    <updated>2013-10-22T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/10/15/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/10/15/Hack-Session.html"/>
+    <title>Hack Session: October 15, 2013</title>
+    <published>2013-10-15T00:00:00-05:00</published>
+    <updated>2013-10-15T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/10/11/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/10/11/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: October 11, 2013</title>
+    <published>2013-10-11T00:00:00-05:00</published>
+    <updated>2013-10-11T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;This Friday is a social night! We&amp;#8217;ll meet at &lt;a href=&#39;http://goo.gl/maps/akQfq&#39;&gt;Quality Bar in downtown Champaign (110 North
+Neil Street)&lt;/a&gt; at 6:30 PM, stick around there for a while, then maybe move on to other establishments in the area. See you there!&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/10/08/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/10/08/Hack-Session.html"/>
+    <title>Hack Session: October 08, 2013</title>
+    <published>2013-10-08T00:00:00-05:00</published>
+    <updated>2013-10-08T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/10/01/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/10/01/Hack-Session.html"/>
+    <title>Hack Session: October 01, 2013</title>
+    <published>2013-10-01T00:00:00-05:00</published>
+    <updated>2013-10-01T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/09/27/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/09/27/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: September 27, 2013</title>
+    <published>2013-09-27T00:00:00-05:00</published>
+    <updated>2013-09-27T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in our regular room this time (Robeson Pavilion Room C, first floor lobby area, right across from the coffeeshop stand), 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The agenda includes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Main presentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Austin Rochford will talk about probabilistic programming with &lt;a href=&#39;https://pypi.python.org/pypi/pymc&#39;&gt;PyMC&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Choosing a new meeting time/day&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Since we started Py-CU last February, our General Meetings have been every other Friday. Of course, this doesn’t work for everyone so we put up a Doodle poll and the majority of the votes given went to Monday nights. However, Nadia and Liz will be busy with the Python Beginner Tutorial series until the end of October. We need to figure out whether we will keep our General Meetings on Fridays until the series is over or if there are people who can fill in and lead meetings temporarily, through the end of October. &lt;em&gt;So if there is anyone who is willing to lead meetings on Mondays after our September 27 meeting, please email us &lt;a href=&#39;mailto:info@py-cu.org?Subject=Temporarily%20leading%20PyCU%20meetings&#39;&gt;info@py-cu.org&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Birds of a Feather sessions&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lightning talks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We don&amp;#8217;t have a lightning talk this week, but we&amp;#8217;re up for anything, if you&amp;#8217;ve got an idea for one.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python coding challenges&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We&amp;#8217;re exploring the idea of doing something like a Coding Dojo, which is &amp;#8220;a meeting where a bunch of coders get together to work on a programming challenge. They are there have fun and to engage in Deliberate Practice [the idea that in order to get better at something, you need to practice] &amp;#8230; focussing on coding in front of others, most often something from scratch, in a very short amount of time &amp;#8230;&amp;#8221; (&lt;a href=&#39;http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo&#39;&gt;http://codingdojo.org&lt;/a&gt;) &amp;#8211; i.e. some regular Python challenges during our meetings that are meant to help us all sharpen our Python skills. Here&amp;#8217;s &lt;a href=&#39;https://github.com/py-cu/pycu-coding-challenges&#39;&gt;our GitHub repository&lt;/a&gt; with a couple easy example challenges and &lt;a href=&#39;https://github.com/py-cu/pycu-coding-challenges/issues/1&#39;&gt;some ideas
+for more involved challenges&lt;/a&gt;. If you&amp;#8217;d like to contribute, &lt;a href=&#39;mailto:info@py-cu.org?Subject=PyCU%20coding%20dojo&#39;&gt;email us at
+info@py-cu.org&lt;/a&gt; and let us know.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Py-CU Camp Beginner Tutorials update&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So far we&amp;#8217;ve had two of our (in total six) &lt;a href=&#39;http://py-cu.github.io/announcements/2013/08/28/Announcement.html&#39;&gt;weekly tutorials&lt;/a&gt;, and they&amp;#8217;re going well. They&amp;#8217;re even &amp;#8220;fun,&amp;#8221; according to some participants. Check out our new &lt;a href=&#39;http://py-curious.tumblr.com/&#39;&gt;Tumblr&lt;/a&gt;, where we&amp;#8217;re posting our lesson content as well as other relevant stuff. One of the best things about these is our high instructor/helper to student ratio, so if anyone with some experience in Python would like to come to these to help out on the ground, that would be awesome. The next tutorial is taking place this coming Monday, September 30th, 6:30 - 8:30 PM at &lt;a href=&#39;http://cucfablab.org/&#39;&gt;the Fab Lab&lt;/a&gt;, located at &lt;a href=&#39;http://goo.gl/maps/dKuLR&#39;&gt;1301 S. Goodwin Ave. in Urbana&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/09/24/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/09/24/Hack-Session.html"/>
+    <title>Hack Session: September 24, 2013</title>
+    <published>2013-09-24T00:00:00-05:00</published>
+    <updated>2013-09-24T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/09/17/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/09/17/Hack-Session.html"/>
+    <title>Hack Session: September 17, 2013</title>
+    <published>2013-09-17T00:00:00-05:00</published>
+    <updated>2013-09-17T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/09/16/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/09/16/Announcement.html"/>
+    <title>Announcement: September 16, 2013</title>
+    <published>2013-09-16T00:00:00-05:00</published>
+    <updated>2013-09-16T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Our &lt;a href=&#39;http://py-cu.github.io/announcements/2013/08/28/Announcement.html&#39;&gt;beginner tutorials&lt;/a&gt; have started! Check out our new &lt;a href=&#39;http://py-curious.tumblr.com/&#39;&gt;Tumblr&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/09/13/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/09/13/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: September 13, 2013</title>
+    <published>2013-09-13T00:00:00-05:00</published>
+    <updated>2013-09-13T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in our regular room this time (Robeson Pavilion Room C, first floor lobby area, right across from the coffeeshop stand), 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The agenda includes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Main presentation: Mark Dewing will talk about &lt;a href=&#39;https://github.com/markdewing/temperature-monitor&#39;&gt;using a wireless sensor to
+measure outside temperature and displaying it on an LCD Display&lt;/a&gt;. The talk will cover &lt;ul&gt;
+      &lt;li&gt;Zigbee wireless, using the python-xbee library&lt;/li&gt;
+      &lt;li&gt;&lt;code&gt;struct&lt;/code&gt; module from the standard library&lt;/li&gt;
+  &lt;/ul&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;We&amp;#8217;ll talk about choosing a new meeting time/day&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Birds of a Feather sessions&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;We don&amp;#8217;t have a lightning talk this week, but we&amp;#8217;re up for anything, if you&amp;#8217;ve got an idea for one.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Reminder: we&amp;#8217;ll be starting our series of beginner Python tutorials starting Monday, September 16, and we still need more people on the ground to provide individual help to the participants!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/09/10/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/09/10/Hack-Session.html"/>
+    <title>Hack Session: September 10, 2013</title>
+    <published>2013-09-10T00:00:00-05:00</published>
+    <updated>2013-09-10T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/09/03/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/09/03/Hack-Session.html"/>
+    <title>Hack Session: September 03, 2013</title>
+    <published>2013-09-03T00:00:00-05:00</published>
+    <updated>2013-09-03T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/08/30/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/08/30/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: August 30, 2013</title>
+    <published>2013-08-30T00:00:00-05:00</published>
+    <updated>2013-08-30T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in our regular room this time (Robeson Pavilion Room C, first floor lobby area, right across from the coffeeshop stand), 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On the agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lightning talk: Henry Gabb will be talking about using Python ElementTree API to extract data from XML files.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Main presentation: Elizabeth Wickes will talk about troubleshooting her web scraping program. This is pretty exciting because this is a great opportunity to talk about times when we have all run into coding issues and how we resolved them.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Birds of a Feather sessions&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/08/28/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/08/28/Announcement.html"/>
+    <title>Announcement: August 28, 2013</title>
+    <published>2013-08-28T00:00:00-05:00</published>
+    <updated>2013-08-28T00:00:00-05:00</updated>
+    <content type="html">&lt;div class=&#39;alert alert-block&#39;&gt;
+    &lt;strong&gt;Update:&lt;/strong&gt; There aren&#39;t any more spaces left, but we&#39;re keeping a
+    waiting list -- email
+    &lt;strong&gt;&lt;a href=&#39;mailto:info@py-cu.org&#39; style=&#39;color: #37a; &#39;&gt;info@py-cu.org&lt;/a&gt;&lt;/strong&gt;
+    if you want to be added to the list or if you&#39;d
+    like to be notified if we offer the tutorials in the future.
+&lt;/div&gt;
+&lt;h4 id=&#39;pycu_presents_intro_to_programming_with_python&#39;&gt;Py-CU presents: Intro to programming with Python&lt;/h4&gt;
+
+&lt;p&gt;A series of tutorials over 6 consecutive Mondays, September 16 - October 21, 6:30 - 8:30 at the &lt;a href=&#39;http://cucfablab.org/&#39;&gt;Fab Lab&lt;/a&gt; (1301 South Goodwin Avenue in Urbana).&lt;/p&gt;
+&lt;img alt=&#39;Intro to programming with Python - flyer&#39; src=&#39;/img/pycucamp_flyer.png&#39; style=&#39;width:700px&#39; /&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/08/27/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/08/27/Hack-Session.html"/>
+    <title>Hack Session: August 27, 2013</title>
+    <published>2013-08-27T00:00:00-05:00</published>
+    <updated>2013-08-27T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/08/20/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/08/20/Hack-Session.html"/>
+    <title>Hack Session: August 20, 2013</title>
+    <published>2013-08-20T00:00:00-05:00</published>
+    <updated>2013-08-20T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/08/16/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/08/16/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: August 16, 2013</title>
+    <published>2013-08-16T00:00:00-05:00</published>
+    <updated>2013-08-16T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in our regular room this time (Robeson Pavilion Room C, first floor lobby area, right across from the coffeeshop stand), 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On the agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For our lightning talk, Paco Jain will discuss using Python in his research in theoretical particle physics.&lt;/li&gt;
+
+&lt;li&gt;Our main presentation will expand our minds with JavaScript, and then expand our minds further by bringing in Python: Joey Trapp will contrast and compare features of two popular web application frameworks: &lt;a href=&#39;http://emberjs.com/&#39;&gt;Ember.js&lt;/a&gt; and &lt;a href=&#39;https://www.djangoproject.com/&#39;&gt;Django&lt;/a&gt;. Here&amp;#8217;s Joey&amp;#8217;s summary:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;#8220;Ember.js is a front-end JavaScript MVC framework for building ambitious web applications. Some of the concepts in Ember have a bit of a learning curve, and I will demonstrate those features by comparing or contrasting them to a similar feature in Django (where it applies). Along with the presentation, I will give a demonstration of setting up a simple Ember app, data bindings, computed properties, and if time permits, some build tool configurations that work well for me and my team.&amp;#8221;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Birds of a Feather sessions&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/08/13/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/08/13/Hack-Session.html"/>
+    <title>Hack Session: August 13, 2013</title>
+    <published>2013-08-13T00:00:00-05:00</published>
+    <updated>2013-08-13T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/08/06/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/08/06/Hack-Session.html"/>
+    <title>Hack Session: August 06, 2013</title>
+    <published>2013-08-06T00:00:00-05:00</published>
+    <updated>2013-08-06T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/08/02/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/08/02/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: August 02, 2013</title>
+    <published>2013-08-02T00:00:00-05:00</published>
+    <updated>2013-08-02T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in room 222 on the second floor (&lt;em&gt;note this is not our usual room&lt;/em&gt;), 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Tim Kuehlhorn will give a presentation on &lt;a href=&#39;http://pyohio.org/schedule/presentation/29/&#39;&gt;Django-powered Mobile Apps&lt;/a&gt;, we&amp;#8217;ll talk about &lt;a href=&#39;http://trizpug.org/boot-camp/pyohio13/&#39;&gt;PyOhio&amp;#8217;s PyCamp&lt;/a&gt;, break out into Birds of a Feather sessions, and more!&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/07/30/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/07/30/Hack-Session.html"/>
+    <title>Hack Session: July 30, 2013</title>
+    <published>2013-07-30T00:00:00-05:00</published>
+    <updated>2013-07-30T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/07/26/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/07/26/Announcement.html"/>
+    <title>Announcement: July 26, 2013</title>
+    <published>2013-07-26T00:00:00-05:00</published>
+    <updated>2013-07-26T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;call_for_presenters_at_our_general_meetings&#39;&gt;Call for presenters at our general meetings!&lt;/h4&gt;
+&lt;img alt=&#39;Want to give a presentation or lightning talk? Let us know!&#39; src=&#39;/img/Py-CU_Call_for_Speakers_Blurb.jpg&#39; style=&#39;width:600px&#39; /&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/announcements/2013/07/25/Announcement</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/announcements/2013/07/25/Announcement.html"/>
+    <title>Announcement: July 25, 2013</title>
+    <published>2013-07-25T00:00:00-05:00</published>
+    <updated>2013-07-25T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;cu_coffee_shop_coders_and_pycu_present_devops_practices_and_lessons_learned_part_of_the_tech_talks_series_thursday_725_champaign_public_library_robeson_pavilion_c&#39;&gt;CU Coffee Shop Coders and Py-CU present: DevOps practices and lessons learned (part of the Tech Talks series), Thursday, 7/25, Champaign Public Library, Robeson Pavilion C.&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#39;http://bit.ly/CUDevOps&#39;&gt;More details&lt;/a&gt;&lt;/p&gt;&lt;img alt=&#39;DevOps Tech Talk flyer&#39; src=&#39;/img/TechTalk-DevOps.png&#39; style=&#39;width:600px&#39; /&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/07/23/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/07/23/Hack-Session.html"/>
+    <title>Hack Session: July 23, 2013</title>
+    <published>2013-07-23T00:00:00-05:00</published>
+    <updated>2013-07-23T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/07/19/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/07/19/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: July 19, 2013</title>
+    <published>2013-07-19T00:00:00-05:00</published>
+    <updated>2013-07-19T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Held at the Champaign Public Library, in Robeson Pavillion Room C (first floor, across from the coffeeshop), 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk_notes&#39;&gt;Main Talk: Notes&lt;/h4&gt;
+
+&lt;p&gt;Last night &lt;a href=&#39;https://github.com/mbbx6spp&#39;&gt;Susan Potter&lt;/a&gt; presented a simple live coding session on Flask, a Python micro web framework with unittest integration.&lt;/p&gt;
+
+&lt;p&gt;Follow along with the notes by cloning the Gist&amp;#8217;s git repository like this:&lt;/p&gt;
+&lt;div class=&#39;highlight&#39;&gt;&lt;pre&gt;&lt;code class=&#39;bash&#39;&gt;&lt;span class=&#39;nv&#39;&gt;$ &lt;/span&gt;git clone https://gist.github.com/6043797.git acktacular
+&lt;span class=&#39;nv&#39;&gt;$ &lt;/span&gt;&lt;span class=&#39;nb&#39;&gt;cd &lt;/span&gt;acktacular
+&lt;span class=&#39;nv&#39;&gt;$ &lt;/span&gt;&lt;span class=&#39;nb&#39;&gt;echo&lt;/span&gt; &lt;span class=&#39;s2&#39;&gt;&amp;quot;following needed because Gists do not allow for subdirectories&amp;quot;&lt;/span&gt;
+&lt;span class=&#39;nv&#39;&gt;$ &lt;/span&gt;mkdir templates
+&lt;span class=&#39;nv&#39;&gt;$ &lt;/span&gt;mv welcome.html templates/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Susan plans on updating this Gist as she develops the idea of Acktacular more.&lt;/p&gt;
+
+&lt;p&gt;Susan wrote up some notes on this live coding session in the &lt;a href=&#39;https://gist.github.com/mbbx6spp/6043797&#39;&gt;Gist below&lt;/a&gt;:&lt;/p&gt;
+&lt;script src=&#39;https://gist.github.com/mbbx6spp/6043797.js&#39; /&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/07/16/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/07/16/Hack-Session.html"/>
+    <title>Hack Session: July 16, 2013</title>
+    <published>2013-07-16T00:00:00-05:00</published>
+    <updated>2013-07-16T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;we_have_a_new_meetup_account_weve_been_spending_all_this_time_doing_that_and_more_during_hack_night&#39;&gt;We have a new Meetup account! We&amp;#8217;ve been spending all this time doing that and more during Hack night.&lt;/h4&gt;
+
+&lt;p&gt;Here&amp;#8217;s the URL: http://www.meetup.com/Python-CU/&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/07/09/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/07/09/Hack-Session.html"/>
+    <title>Hack Session: July 09, 2013</title>
+    <published>2013-07-09T00:00:00-05:00</published>
+    <updated>2013-07-09T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/07/02/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/07/02/Hack-Session.html"/>
+    <title>Hack Session: July 02, 2013</title>
+    <published>2013-07-02T00:00:00-05:00</published>
+    <updated>2013-07-02T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/06/25/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/06/25/Hack-Session.html"/>
+    <title>Hack Session: June 25, 2013</title>
+    <published>2013-06-25T00:00:00-05:00</published>
+    <updated>2013-06-25T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;
+
+&lt;h4 id=&#39;what_happened&#39;&gt;What happened&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Talked about lots of stuff, including all kinds of IDEs (ish), including: Eclipse, PyCharm, Dreampie, bpython, iPython&lt;/li&gt;
+
+&lt;li&gt;Some Coffeeshop Coders members joined us&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/06/21/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/06/21/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: June 21, 2013</title>
+    <published>2013-06-21T00:00:00-05:00</published>
+    <updated>2013-06-21T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in the Foundation Conference Room (Room 222, second floor), 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;h4 id=&#39;agenda&#39;&gt;Agenda:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lightning Talks: Will be mainly led by Nadia who will talk about &lt;a href=&#39;https://speakerdeck.com/gnarlinsky/py-cu-lightning-talk-python-introspection-101&#39;&gt;Introspection and Python&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;GAMES (likely cards against humanity, fluxx, or some awesome card game)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+
+&lt;li&gt;And probably going out for drinks after!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present. This week, we will either do this at the library or whichever bar or cafe we decide to visit when the library closes.&lt;/p&gt;
+
+&lt;h4 id=&#39;update_what_we_talked_about&#39;&gt;&lt;em&gt;Update: what we talked about&lt;/em&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#39;https://speakerdeck.com/gnarlinsky/py-cu-lightning-talk-python-introspection-101&#39;&gt;Introspection and Python&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;project management&lt;/li&gt;
+
+&lt;li&gt;software development processes (Agile, Scrum)&lt;/li&gt;
+
+&lt;li&gt;the bpython interface to the Python interpreter&lt;/li&gt;
+
+&lt;li&gt;and more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Next time, we&amp;#8217;ll be back in our regular meeting room, Robeson Pavilion C, first floor of the Champaign Library.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/06/18/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/06/18/Hack-Session.html"/>
+    <title>Hack Session: June 18, 2013</title>
+    <published>2013-06-18T00:00:00-05:00</published>
+    <updated>2013-06-18T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/06/11/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/06/11/Hack-Session.html"/>
+    <title>Hack Session: June 11, 2013</title>
+    <published>2013-06-11T00:00:00-05:00</published>
+    <updated>2013-06-11T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;
+
+&lt;h4 id=&#39;update_what_we_talked_about_and_worked_on&#39;&gt;&lt;em&gt;Update: what we talked about and worked on&lt;/em&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#39;http://cucfablab.org&#39;&gt;CU Fab Lab&amp;#8217;s&lt;/a&gt; &lt;a href=&#39;http://cucfablab.org/book/dustduino-plan-crowdsource-environmental-reporting-low-cost-dust-sensors&#39;&gt;DustDuino&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;WordPress, Twitter Bootstrap, Amazon Web Services&lt;/li&gt;
+
+&lt;li&gt;and more!&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/06/07/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/06/07/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: June 07, 2013</title>
+    <published>2013-06-07T00:00:00-05:00</published>
+    <updated>2013-06-07T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in the Robeson Pavillion Room C, 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: (tbd)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;(tbd)&lt;/p&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/06/04/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/06/04/Hack-Session.html"/>
+    <title>Hack Session: June 04, 2013</title>
+    <published>2013-06-04T00:00:00-05:00</published>
+    <updated>2013-06-04T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/05/28/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/05/28/Hack-Session.html"/>
+    <title>Hack Session: May 28, 2013</title>
+    <published>2013-05-28T00:00:00-05:00</published>
+    <updated>2013-05-28T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/05/24/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/05/24/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: May 24, 2013</title>
+    <published>2013-05-24T00:00:00-05:00</published>
+    <updated>2013-05-24T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in the Robeson Pavillion Room C, 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: (tbd)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;(tbd)&lt;/p&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/05/21/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/05/21/Hack-Session.html"/>
+    <title>Hack Session: May 21, 2013</title>
+    <published>2013-05-21T00:00:00-05:00</published>
+    <updated>2013-05-21T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/05/14/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/05/14/Hack-Session.html"/>
+    <title>Hack Session: May 14, 2013</title>
+    <published>2013-05-14T00:00:00-05:00</published>
+    <updated>2013-05-14T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/05/10/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/05/10/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: May 10, 2013</title>
+    <published>2013-05-10T00:00:00-05:00</published>
+    <updated>2013-05-10T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in the Robeson Pavillion Room C, 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: (tbd)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;(tbd)&lt;/p&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/05/07/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/05/07/Hack-Session.html"/>
+    <title>Hack Session: May 07, 2013</title>
+    <published>2013-05-07T00:00:00-05:00</published>
+    <updated>2013-05-07T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/04/30/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/04/30/Hack-Session.html"/>
+    <title>Hack Session: April 30, 2013</title>
+    <published>2013-04-30T00:00:00-05:00</published>
+    <updated>2013-04-30T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/04/26/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/04/26/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: April 26, 2013</title>
+    <published>2013-04-26T00:00:00-05:00</published>
+    <updated>2013-04-26T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in the Robeson Pavillion Room C, 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: (tbd)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;(tbd)&lt;/p&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/04/23/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/04/23/Hack-Session.html"/>
+    <title>Hack Session: April 23, 2013</title>
+    <published>2013-04-23T00:00:00-05:00</published>
+    <updated>2013-04-23T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/04/16/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/04/16/Hack-Session.html"/>
+    <title>Hack Session: April 16, 2013</title>
+    <published>2013-04-16T00:00:00-05:00</published>
+    <updated>2013-04-16T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/04/12/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/04/12/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: April 12, 2013</title>
+    <published>2013-04-12T00:00:00-05:00</published>
+    <updated>2013-04-12T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in the Robeson Pavillion Room C, 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: (tbd)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;(tbd)&lt;/p&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/04/09/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/04/09/Hack-Session.html"/>
+    <title>Hack Session: April 09, 2013</title>
+    <published>2013-04-09T00:00:00-05:00</published>
+    <updated>2013-04-09T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/04/02/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/04/02/Hack-Session.html"/>
+    <title>Hack Session: April 02, 2013</title>
+    <published>2013-04-02T00:00:00-05:00</published>
+    <updated>2013-04-02T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/03/29/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/03/29/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: March 29, 2013</title>
+    <published>2013-03-29T00:00:00-05:00</published>
+    <updated>2013-03-29T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us at the Champaign Public Library, in the Robeson Pavillion Room C, 6:30 PM - 8:30 PM.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: (tbd)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;(tbd)&lt;/p&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/03/26/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/03/26/Hack-Session.html"/>
+    <title>Hack Session: March 26, 2013</title>
+    <published>2013-03-26T00:00:00-05:00</published>
+    <updated>2013-03-26T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/03/19/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/03/19/Hack-Session.html"/>
+    <title>Hack Session: March 19, 2013</title>
+    <published>2013-03-19T00:00:00-05:00</published>
+    <updated>2013-03-19T00:00:00-05:00</updated>
+    <content type="html">&lt;h4 id=&#39;share_your_skills_and_pick_up_some_new_ones_at_our_weekly_hack_sessions&#39;&gt;Share your skills and pick up some new ones at our weekly hack sessions!&lt;/h4&gt;
+
+&lt;p&gt;Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;
+
+&lt;p&gt;This is a weekly Py-CU event for people to work on projects, seek assistance on projects, socialize, plan, and generally enjoy being around people who like to code, too. Individuals of all levels of programming experience are encouraged to come.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/03/15/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/03/15/Biweekly-Meeting.html"/>
+    <title>Biweekly meeting: March 15, 2013</title>
+    <published>2013-03-15T00:00:00-05:00</published>
+    <updated>2013-03-15T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Come join us for our third event, Friday, March 15, 2013 in at the Champaign Public Library, in the Robeson Pavillion Room C at 6:30 PM&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: (tbd)&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;(tbd)&lt;/p&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/03/12/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/03/12/Hack-Session.html"/>
+    <title>Hack Session: March 12, 2013</title>
+    <published>2013-03-12T00:00:00-05:00</published>
+    <updated>2013-03-12T00:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;Share your skills and pick up some new ones at our weekly hack sessions! Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/03/05/Hack-Session</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/03/05/Hack-Session.html"/>
+    <title>Hack Session: March 05, 2013</title>
+    <published>2013-03-05T00:00:00-06:00</published>
+    <updated>2013-03-05T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Share your skills and pick up some new ones at our weekly hack sessions! Join us at the Urbana-Champaign Independent Media Center, 202 S. Broadway Ave., Urbana, from 7 to 9 PM.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/03/01/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/03/01/Biweekly-Meeting.html"/>
+    <title>Biweekly Meeting: March 01, 2013</title>
+    <published>2013-03-01T00:00:00-06:00</published>
+    <updated>2013-03-01T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Come join us for our second event, Friday, March 1, 2013 in at the Champaign Public Library, in the Robeson Pavillion Room C at 6:30 PM&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks&lt;/li&gt;
+
+&lt;li&gt;Main Talk: Robin Berthier, &amp;#8220;The University Compromised Account Assesment System&amp;#8221;&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;Robin Berthier, a Faculty Researcher at the University of Illinois, will be talking about the University Compromised Account Asssesment System (UCAAS), which he helped build. UCAAS was programmend in python, calling into the Weka machine learning tool. The frontend for the system is based on Django. More about UCAAS:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The University Compromised Account Assessment System (UCAAS) has been built to detect and report potentially compromised accounts. This system was developed and evaluated through collaboration between researchers and security analysts at the University of Illinois, the University of Michigan, and BBN Technology.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#39;breakout_sessions&#39;&gt;Breakout Sessions&lt;/h4&gt;
+
+&lt;p&gt;We will break out into various sessions, based on interests of the people present. There have been a few suggested ideas, like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Putting together a regular &amp;#8220;hack day&amp;#8221;&lt;/li&gt;
+
+&lt;li&gt;Web Scraping&lt;/li&gt;
+
+&lt;li&gt;Python in security&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But any topics are on the table!&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://py-cu.org/events/2013/02/15/Biweekly-Meeting</id>
+    <link type="text/html" rel="alternate" href="http://py-cu.org/events/2013/02/15/Biweekly-Meeting.html"/>
+    <title>Biweekly Meeting: February 15, 2013</title>
+    <published>2013-02-15T00:00:00-06:00</published>
+    <updated>2013-02-15T00:00:00-06:00</updated>
+    <content type="html">&lt;p&gt;Our first meeting will be held at the Champaign Public Library, in the Robeson Pavillion Room C at 6:30 PM&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening - what is Py-CU?&lt;/li&gt;
+
+&lt;li&gt;Lightning Talks - 6:45 - 7:15&lt;/li&gt;
+
+&lt;li&gt;Main Talk: Gabe Weaver, XUTools - 7:15 - 7:30&lt;/li&gt;
+
+&lt;li&gt;Birds of a Feather breakout sessions - 7:30 - whenever &amp;lt;/ul&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;main_talk&#39;&gt;Main Talk&lt;/h4&gt;
+
+&lt;p&gt;Gabe Weaver will be talking about his XUTools project, it&amp;#8217;s motivations and implementation in python. He desribes XUTools as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Our eXtended Unix tools (XUTools) extend traditional Unix tools to process a broader class of languages in which security-policies are expressed. XUTools is already in demand by a variety of practitioners and articles on our research have been featured in various news outlets such as ComputerWorld, CIO Magazine, Communications of the ACM, and Hacker News.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#39;lightning_talks&#39;&gt;Lightning Talks&lt;/h4&gt;
+
+&lt;p&gt;Lightning talks are short talks. (&lt;a href=&#39;http://en.wikipedia.org/wiki/Lightning_talk&#39;&gt;
+  More info&lt;/a&gt;) They are generally introductions to a topic, or a rant, or a rave, or&amp;#8230;. The talks are a maximum of 5 minutes and open to anyone, on a first-come first-serve basis. If you want to give a lightning talk, show up a bit early and get on the list!&lt;/p&gt;
+
+&lt;h4 id=&#39;birds_of_a_feather_breakouts&#39;&gt;Birds of a Feather Breakouts&lt;/h4&gt;
+
+&lt;p&gt;After the &amp;#8220;official&amp;#8221; content, we&amp;#8217;ll be breaking out into &lt;a href=&#39;http://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)&#39;&gt; Birds of a Feather &lt;/a&gt; sessions. The topics are fluid, but the idea is to find people with similar interests and hack, discuss, and generally have fun.&lt;/p&gt;
+
+&lt;h4 id=&#39;and_finally&#39;&gt;And finally&amp;#8230;.&lt;/h4&gt;
+
+&lt;p&gt;We would appreciate if you take some time to fill out this survey if you plan on coming to this, or any, event of ours, so we can use the info to find topics and presenters that are actually of interest to the community in C-U. We will not use this information for anything other than understanding the group, ever.&lt;/p&gt;
+&lt;iframe frameborder=&#39;0&#39; height=&#39;500&#39; marginheight=&#39;0&#39; marginwidth=&#39;0&#39; src=&#39;https://docs.google.com/forms/d/1erbND3z3FdSCKiWBN06TC0ygqNFr8O7pBa6-4rU2xJE/viewform?embedded=true&#39; width=&#39;760&#39;&gt;Loading...&lt;/iframe&gt;</content>
+  </entry>
+  
+ 
+</feed>

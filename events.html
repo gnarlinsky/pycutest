@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<div class="row-fluid">
+<div class="span3">
+
+<h4> Upcoming </h4>
+<ul>
+    {% assign i = 0 %}
+    {% assign num_to_show = 2 %}
+    {% for post in site.posts reversed %}
+        {% if i < num_to_show %}
+            {% if post.date >= site.time and post.category == 'events' %}
+                    <li><a href="{{ post.url }}"> {{post.date | date:"%B %d, %Y" }}: {{ post.title}} </a>
+                    {{post.slug}}</li>
+                    {% assign i = i | plus: 1 %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+{% comment %}At most 100 events before right now. {% endcomment %}
+<h4>Past Events</h4>
+<ul>
+  {% for post in site.posts limit:100 %}
+      {% if post.date < site.time and post.category == 'events' %}
+            <li><a href="{{ post.url }}">{{post.date | date:"%B %d, %Y" }}: {{ post.title}}</a> </li>
+      {% endif %}
+  {% endfor %}
+</ul>
+
+</div>
+
+<div class="span8">
+{% comment %}
+{% assign i = 0 %}                                                     
+{% assign num_to_show = 4 %}
+{% endcomment %}
+{% for post in site.posts reversed limit:10 %}
+    {% comment %}  if i < num_to_show  {% endcomment %}
+        {% if post.date >= site.time and post.category == 'events' %}
+            <h1 class="shead">{{post.title}}</h1>
+            <p>{{ post.date | date:"%B %d, %Y" }}</p>
+            <p> {{ post.content }}</p>
+            <hr>
+            {% comment %}{% assign i = i | plus: 1 %}{% endcomment %}
+        {% endif %}
+
+        {% comment %}  endif  {% endcomment %}
+{% endfor %}
+</div>
+
+
+</div>
