@@ -20,6 +20,11 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
 
 
 
+* **Main presentation**
+
+  Austin Rochford will talk about probabilistic programming with <a href="https://pypi.python.org/pypi/pymc">PyMC</a>.
+
+
 
 
 
